@@ -1,4 +1,4 @@
-A simple signing algorithm implementation in Rust.
+A simple signing algorithm implementation for Linux written in Rust.
 
 Based on the following info:
 
